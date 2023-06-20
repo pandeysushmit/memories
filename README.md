@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#Screenshots">Screenshots</a> •
+ •<a href="#Screenshots">Screenshots</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#tools-used">Technologies Used</a> •
