@@ -30,11 +30,11 @@
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/post_details.png" alt="post details" height="180" width="320">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/search.png" alt="search" height="180" width="320">
 </p>
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/mobile_home.png" alt="search" height="300" width="250">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/mobile_page_details.png" alt="search" height="300" width="250">
 </p>
-
+ -->
 ## Key Features
 
 * Adaptive Learning - Learning while adapting
