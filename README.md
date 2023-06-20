@@ -23,7 +23,7 @@
 
 ## Screenshots
 
-[!Screenshots]<p align="center">
+[!screenshots]<p align="center">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/home_without_login.png" alt="home" height="270" width="480">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/Auth.png" alt="auth" height="270" width="480">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/pagination.png" alt="pagination" height="270" width="480">
