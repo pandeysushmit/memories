@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/client/src/images/memories.jpg" alt="Memories" height="200" width="200"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/client/src/images/favicon.png" alt="Memories" height="200" width="200"></a>
   <br>
   Memories
   <br>
