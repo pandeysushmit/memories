@@ -25,7 +25,7 @@
 <p align="center">
   
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/home_without_login.png" alt="home" height="180" width="270"> <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/Auth.png" alt="auth" height="180" width="270"> <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/pagination.png" alt="pagination" height="180" width="270">
-<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/post_details.png" alt="post details" height="270" width="410"> <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/search.png" alt="search" height="270" width="410">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/post_details.png" alt="post details" height="270" width="407"> <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/search.png" alt="search" height="270" width="407">
 
 </p>
 
