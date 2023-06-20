@@ -20,6 +20,7 @@ export default makeStyles({
     borderRadius: '15px',
     height: '100%',
     position: 'relative',
+    scale: '0.96',
   },
   overlay: {
     position: 'absolute',
@@ -29,7 +30,7 @@ export default makeStyles({
   },
   overlay2: {
     position: 'absolute',
-    top: '20px',
+    top: '10px',
     right: '20px',
     color: 'white',
   },
@@ -40,14 +41,18 @@ export default makeStyles({
     display: 'flex',
     justifyContent: 'space-between',
     margin: '20px',
+    marginTop:'10px',
   },
-  // title: {
-  //   padding: '0 16px',
-  // },
+  title: {
+    padding: '0 16px',
+  },
   cardActions: {
-    // padding: '0 16px 8px 16px',
+    padding: '0 16px 8px 16px',
     display: 'flex',
-    // alignContent: 'center',
     justifyContent: 'space-between',
+  },
+  cardAction: {
+    display: 'block',
+    textAlign: 'initial',
   },
 });

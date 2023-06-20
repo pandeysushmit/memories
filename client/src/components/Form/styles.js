@@ -14,11 +14,19 @@ export default makeStyles((theme) => ({
     flexWrap: 'wrap',
     justifyContent: 'center',
   },
+  input: {
+    display: 'flex',
+    flexWrap: 'wrap',
+    justifyContent: 'left',
+  },
   fileInput: {
     width: '97%',
-    margin: '10px 0',
+    margin: '0px auto',
+    marginLeft: '100px',
+    // justifyContent: 'left',
   },
   buttonSubmit: {
     marginBottom: 10,
+    marginTop: 5,
   },
 }));
