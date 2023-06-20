@@ -27,10 +27,10 @@
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/home_without_login.png" alt="home" height="180" width="320">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/Auth.png" alt="auth" height="180" width="320">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/pagination.png" alt="pagination" height="180" width="320">
-<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/post_details.png" alt="post details">
-<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/search.png" alt="search">
-<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/mobile_home.png" alt="search" height="270" width="200">
-<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/mobile_page_details.png" alt="search" height="270" width="200">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/post_details.png" alt="post details" height="180" width="320">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/search.png" alt="search" height="180" width="320">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/mobile_home.png" alt="search" height="180" width="320">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/mobile_page_details.png" alt="search" height="180" width="320">
 </p>
 
 ## Key Features
