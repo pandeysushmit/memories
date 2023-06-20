@@ -32,15 +32,20 @@
 
 ## Key Features
 
-* Adaptive Learning - Learning while adapting
-  - Student get to solve questions according to their level of understanding and subsequently improving.
-* Interactive Exercises
-  - There are a number of exercises to choose from for practicing the concepts.
-* Kids Friendly Design  
-* Teachers Dashboard
-* Questions Database
-* Results Dashboard
-* Scoreboard display after each test
+* Complete CRUD Functionality
+  - Users can Create, Update and Delete any of their posts and View others' post
+* Responsive Website
+  -The Website is completely responsive for all of the devices such as Mobiles and Tablets.
+* Multiple Authentication Methods
+  - Users can either login through their email or through Gmail ID.
+* Pagination
+  -All the posts are divided into pages where only a certain number of posts will be displayed on each page.
+* Search
+  -Users can search the posts where they can either search by the title of the posts or by tags.
+* Post Details Page
+  -All the details of a particular post such as Message, Tags, Creator, Comments are present on their respective page.
+* Comments
+  -Users can comment on any of the post provided they are logged in.
 
 ## How To Use
 
