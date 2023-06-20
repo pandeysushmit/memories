@@ -72,8 +72,8 @@ $ nodemon
 ```
 ## Tools Used
 
-This software uses the following open source packages:
 
-<img src="https://www.svgrepo.com/download/331488/mongodb.svg" height="50"> <img src="https://www.svgrepo.com/show/330398/express.svg" height="50"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50">
+
+<img src="https://www.svgrepo.com/download/331488/mongodb.svg" height="50"> <img src="https://www.svgrepo.com/show/330398/express.svg" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="50"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="50">
 
 
