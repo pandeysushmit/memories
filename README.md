@@ -1,6 +1,4 @@
 # memories
-
-
 <h1 align="center">
   <br>
   <a href=""><img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/client/src/images/favicon.png" alt="Memories" height="200" width="200"></a>
@@ -25,7 +23,7 @@
 
 ## Screenshots
 
-<p align="center">
+[!Screenshots]<p align="center">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/home_without_login.png" alt="project">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/Auth.png" alt="project">
 <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/pagination.png" alt="project">
