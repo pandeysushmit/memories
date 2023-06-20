@@ -24,8 +24,8 @@
 
 <p align="center">
   
-<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/home_without_login.png" alt="home" height="180" width="270"> <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/Auth.png" alt="auth" height="180" width="270"> <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/pagination.png" alt="pagination" height="180" width="270">
-<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/post_details.png" alt="post details" height="270" width="407"> <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/search.png" alt="search" height="270" width="407">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/home_without_login.png" alt="home" title="Home Page" height="180" width="270"> <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/Auth.png" alt="auth" title="Authorization Page with Google Login" height="180" width="270"> <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/pagination.png" alt="pagination" title="Pagination showing certain posts in one page" height="180" width="270">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/post_details.png" alt="post details" title="Post Details Page showing all the relevant information along with Comments and Recommended Posts" height="270" width="407"> <img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/search.png" alt="search" title="Search Functionality by tags and title" height="270" width="407">
 
 </p>
 
