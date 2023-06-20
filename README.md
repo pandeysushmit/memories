@@ -1,15 +1,15 @@
 # memories
-A Full Stack Social Media App
+
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/client/src/images/logo.png" alt="Memories" height="200" width="200"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/client/src/images/memories.jpg" alt="Memories" height="200" width="200"></a>
   <br>
-  Quiz Wizards
+  Memories
   <br>
 </h1>
 
-<h4 align="center">An interactive quiz app made for Adaptive Learning using MERN Stack.</h4>
+<h4 align="center">A Full Stack Social Media App.</h4>
 
 <p align="center">
 </p>
@@ -18,15 +18,19 @@ A Full Stack Social Media App
   <a href="#Screenshots">Screenshots</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#contributers-to-this-project">Contributors</a> •
+  <a href="#credits">Technologies Used</a> •
+<!--   <a href="#contributers-to-this-project">Contributors</a> • -->
 </p>
 
 
 ## Screenshots
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pandeysushmit/quiz_app/main/screenshots/sample.jpg" alt="project" height="600" width="900" >
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/home_without_login.png" alt="project">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/Auth.png" alt="project">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/pagination.png" alt="project">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/post_details.png" alt="project">
+<img src="https://raw.githubusercontent.com/pandeysushmit/memories/main/screenshots/search.png" alt="project">
 </p>
 
 ## Key Features
