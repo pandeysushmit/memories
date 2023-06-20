@@ -15,7 +15,7 @@
   <a href="#Screenshots">Screenshots</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#credits">Technologies Used</a> •
+  <a href="#tools-used">Technologies Used</a> •
 <!--   <a href="#contributers-to-this-project">Contributors</a> • -->
 </p>
 
@@ -48,10 +48,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/pandeysushmit/quiz_app
+$ git clone https://github.com/pandeysushmit/memories
 
 # Go into the repository
-$ cd quiz_app
+$ cd memories
 
 # Install dependencies for both the server & client sides
 $ cd server
@@ -65,7 +65,7 @@ $ npm run start
 #Run the server side
 $ nodemon
 ```
-## Credits
+## Tools Used
 
 This software uses the following open source packages:
 
@@ -74,7 +74,4 @@ This software uses the following open source packages:
 - [ReactJS](https://react.dev/)
 - [Node.js](https://nodejs.org/)
 - Images are taken from <a href="https://www.freepik.com/">Freepik.</a>
-## Contributers to this Project
-- <a href="https://github.com/rohit-kumar1926">Rohit Kumar</a>
-- <a href="https://github.com/kumarcodes3004">Kumar Satyam</a>
-- <a href="https://github.com/pandeysushmit">Me</a>
+
