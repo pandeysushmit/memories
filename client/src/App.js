@@ -11,7 +11,7 @@ const App=()=>{
     return(
         <BrowserRouter>
         <GoogleOAuthProvider
-        clientId="150712964394-l0kupseqqn531cdahnsufm700nngahm5.apps.googleusercontent.com">
+        clientId=YOUR_GOOGLE_OAUTH_CLIENT_ID>
         <Container maxWidth='lg'>
            <NavBar/>
             <Switch>
